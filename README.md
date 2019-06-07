@@ -1,5 +1,5 @@
 # -S3-Mini-Shell
-A minimal and basic Shell bash code in C for University.
+A minimal and basic Mini-Shell bash code in C for University.
 
 ### How to use - *Linux Project*
 
