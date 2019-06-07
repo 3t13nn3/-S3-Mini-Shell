@@ -38,7 +38,7 @@ Lauch the binary with ```./mini-shell```.
     
 ### Exemple of use
 
-You find an example of execution at the end of the page 4 in my [Project Report](https://github.com/3t13nn3/-S3-Mini-Shell/blob/master/Rapport/Rapport_mini_shell.pdf).
+You can find an example of execution at the end of the page 4 in my [Project Report](https://github.com/3t13nn3/-S3-Mini-Shell/blob/master/Rapport/Rapport_mini_shell.pdf).
   
 ## Authors
 
