@@ -1,6 +1,9 @@
 # -S3-Mini-Shell
 A minimal and basic Mini-Shell bash code in C for University.
 
+
+If you french speaking, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Mini-Shell/blob/master/Rapport/Rapport_mini_shell.pdf) for more details.
+
 ### How to use - *Linux Project*
 
 Compile the program with ```make```.
